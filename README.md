@@ -1,2 +1,6 @@
-# fortunes
-Weisheiten
+```
+ '___'
+ {O,o}
+/)___)
+  " "
+```
