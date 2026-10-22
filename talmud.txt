@@ -1,185 +1,117 @@
 # Talmud Weisheiten – bereinigtes Fortune-Format
-# Format: Hebräisch
 # Deutsch (Quelle)
-# -- kurze moderne Erklärung
 # %
 
-דְּעָלָךְ סְנֵי לְחַבְרָךְ לָא תַּעֲבֵיד
 Was du hasst, das tu deinem Nächsten nicht. (Shabbat 31a)
--- Das ist die ganze Tora, der Rest ist Kommentar. Geh und lerne.
 %
 
-אִם אֵין אֲנִי לִי, מִי לִי? וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי? וְאִם לֹא עַכְשָׁיו, אֵימָתַי?
 Wenn ich nicht für mich bin, wer ist für mich? Und wenn ich nur für mich bin, was bin ich? Und wenn nicht jetzt, wann dann? (Avot 1:14)
--- Verantwortung für sich selbst und für andere – und die Dringlichkeit des Handelns.
 %
 
-עַל שְׁלֹשָׁה דְּבָרִים הָעוֹלָם עוֹמֵד: עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים
 Die Welt steht auf drei Dingen: auf der Tora, dem Gottesdienst und auf Taten der Güte. (Avot 1:2)
--- Fundament des jüdischen Lebens.
 %
 
-אֱמֹר מְעַט וַעֲשֵׂה הַרְבֵּה, וֶהֱוֵי מְקַבֵּל אֶת כָּל הָאָדָם בְּסֵבֶר פָּנִים יָפוֹת
 Sage wenig und tue viel, und empfange jeden Menschen mit freundlichem Gesicht. (Avot 1:15)
--- Taten zählen mehr als Worte; Freundlichkeit öffnet Türen.
 %
 
-אֵיזֶהוּ חָכָם? הַלּוֹמֵד מִכָּל אָדָם
 Wer ist weise? Der von jedem Menschen lernt. (Avot 4:1)
--- Weisheit kommt aus Demut und Offenheit.
 %
 
-אֵיזֶהוּ גִּבּוֹר? הַכּוֹבֵשׁ אֶת יִצְרוֹ
 Wer ist stark? Der seinen Trieb beherrscht. (Avot 4:1)
--- Wahre Stärke ist Selbstbeherrschung.
 %
 
-אֵיזֶהוּ עָשִׁיר? הַשָּׂמֵחַ בְּחֶלְקוֹ
 Wer ist reich? Der mit seinem Los zufrieden ist. (Avot 4:1)
--- Zufriedenheit ist der wahre Reichtum.
 %
 
-אֵיזֶהוּ מְכֻבָּד? הַמְכַבֵּד אֶת הַבְּרִיּוֹת
 Wer ist geehrt? Der andere ehrt. (Avot 4:1)
--- Ehre kommt durch Respekt gegenüber anderen.
 %
 
-לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה
 Nicht dir liegt die Arbeit, sie zu vollenden, aber du bist auch nicht frei, dich ihr zu entziehen. (Avot 2:16)
--- Tue deinen Teil, auch wenn das Ziel groß ist.
 %
 
-בְּמָקוֹם שֶׁאֵין אֲנָשִׁים, הִשְׁתַּדֵּל לִהְיוֹת אִישׁ
 An einem Ort, wo es keine Männer gibt, bemühe dich, ein Mann zu sein. (Avot 2:5)
--- Führe durch Beispiel, wenn andere versagen.
 %
 
-סְיָג לַחָכְמָה שְׁתִיקָה
 Ein Zaun um die Weisheit ist das Schweigen. (Avot 3:13)
--- Manchmal ist Stillschweigen die klügste Antwort.
 %
 
-הֱווּ מְתוּנִים בַּדִּין, וְהַעֲמִידוּ תַּלְמִידִים הַרְבֵּה, וַעֲשׂוּ סְיָג לַתּוֹרָה
 Seid vorsichtig im Urteil, erzieht viele Schüler und macht einen Zaun um die Tora. (Avot 1:1)
--- Die drei Grundsätze der Männer der Großen Versammlung.
 %
 
-אַל תְּהֵי כַּעֲבָדִים הַמְשַׁמְּשִׁין אֶת הָרַב עַל מְנָת לְקַבֵּל פְּרָס
 Diene nicht um des Lohnes willen. (Avot 1:3)
--- Die rechte Absicht zählt.
 %
 
-יְהִי בֵיתְךָ פָּתוּחַ לִרְוָחָה, וְיִהְיוּ עֲנִיִּים בְּנֵי בֵיתֶךָ
 Dein Haus sei weit offen, und die Armen seien Mitglieder deines Haushalts. (Avot 1:5)
--- Gastfreundschaft ist eine zentrale Tugend.
 %
 
-עֲשֵׂה לְךָ רַב, וּקְנֵה לְךָ חָבֵר, וֶהֱוֵי דָן אֶת כָּל הָאָדָם לְכַף זְכוּת
 Erwirb dir einen Lehrer, erwirb dir einen Freund und beurteile jeden zum Guten hin. (Avot 1:6)
--- Führung, Freundschaft und Wohlwollen im Urteil.
 %
 
-עַל שְׁלֹשָׁה דְּבָרִים הָעוֹלָם עוֹמֵד: עַל הַדִּין וְעַל הָאֱמֶת וְעַל הַשָּׁלוֹם
 Die Welt steht auf Recht, Wahrheit und Frieden. (Avot 1:18)
--- Diese drei tragen die Gesellschaft.
 %
 
-הֱוֵי זָהִיר בְּמִצְוָה קַלָּה כְּבַחֲמוּרָה
 Sei so vorsichtig mit einem leichten Gebot wie mit einem schweren. (Avot 2:1)
--- Jedes Gebot hat seinen Wert.
 %
 
-הִסְתַּכֵּל בִּשְׁלֹשָׁה דְּבָרִים וְאֵין אַתָּה בָּא לִידֵי עֲבֵירָה: דַּע מַה לְּמַעְלָה מִמְּךָ, עַיִן רוֹאָה וְאֹזֶן שׁוֹמַעַת, וְכָל מַעֲשֶׂיךָ בַּסֵּפֶר נִכְתָּבִין
 Überlege drei Dinge und du wirst nicht sündigen: Ein sehendes Auge, ein hörendes Ohr und alle deine Taten werden aufgezeichnet. (Avot 2:1)
--- Bewusstsein für Aufsicht hält moralisch.
 %
 
-יְהִי כְבוֹד חֲבֵרְךָ חָבִיב עָלֶיךָ כְּשֶׁלָּךְ
 Die Ehre deines Freundes sei dir so teuer wie deine eigene. (Avot 2:10)
--- Respektiere andere wie dich selbst.
 %
 
-אַל תְּהִי בָז לְכָל אָדָם, וְאַל תְּהִי מַפְלִיג לְכָל דָּבָר, שֶׁאֵין לְךָ אָדָם שֶׁאֵין לוֹ שָׁעָה וְאֵין לְךָ דָבָר שֶׁאֵין לוֹ מָקוֹם
 Verachte niemanden und halte nichts für unmöglich, denn jeder Mensch hat seine Stunde und jedes Ding seinen Ort. (Avot 4:3)
--- Jeder hat seinen Moment.
 %
 
-אַל תִּסְתַּכֵּל בַּקַּנְקַן אֶלָּא בְּמַה שֶּׁיֵּשׁ בּוֹ
 Schau nicht auf den Krug, sondern auf das, was darin ist. (Avot 4:20)
--- Urteile nicht nach dem Äußeren.
 %
 
-וְכָל הַמְקַיֵּים נֶפֶשׁ אַחַת מִיִּשְׂרָאֵל כְּאִלּוּ קִיֵּים עוֹלָם מָלֵא
 Wer ein Leben rettet, rettet eine ganze Welt. (Sanhedrin 37a)
--- Der Wert eines einzelnen Menschenlebens ist unermesslich.
 %
 
-אַל תַּשְׁלִיךְ אֲבָנִים לְבוֹר שֶׁשָּׁתִיתָ מִמֶּנּוּ
 Wirf keine Steine in den Brunnen, aus dem du getrunken hast. (Bava Kamma 92b)
--- Sei dankbar gegenüber denen, die dir geholfen haben.
 %
-
-# --- Talmudische Volksweisheiten (oft ohne einzelne präzise Daf-Stelle) ---
 
 Die Qualität einer Gurke erkennt man schon an der Blüte. (Talmudische Volksweisheit)
--- Viele Charaktereigenschaften zeigen sich früh.
 %
 
 Ein Topf, der mehreren gehört, ist weder heiß noch kalt. (Talmudische Volksweisheit)
--- Geteilte Verantwortung führt oft zu Vernachlässigung.
 %
 
 Eine scharfe Pfefferschote ist besser als ein Korb voll Kürbisse. (Talmudische Volksweisheit)
--- Qualität schlägt Quantität.
 %
 
 Wer von einer Schlange gebissen wurde, fürchtet sich vor einem Seil. (Talmudische Volksweisheit)
--- Traumata prägen die Wahrnehmung.
 %
 
 Besser verflucht sein als verfluchen. (Talmudische Volksweisheit)
--- Der Fluchende schadet sich selbst mehr.
 %
 
 Der Charakter eines Menschen zeigt sich an seinem Becher, seiner Tasche und seinem Zorn. (Eruvin 65b)
--- Verhalten beim Trinken, im Geschäft und im Ärger verrät das Wesen.
 %
 
 Jugend ist eine Krone aus Rosen, Alter eine Krone aus Weiden. (Shabbat 152a)
--- Jugend ist leicht und schön, Alter belastend.
 %
 
 Wein hinein, Geheimnis hinaus. (Eruvin 65a)
--- Alkohol lockert die Zunge.
 %
 
 Wände haben Ohren. (Talmudische Volksweisheit)
--- Vorsicht beim Sprechen.
 %
 
 Tropfen für Tropfen füllt sich die Zisterne. (Talmudische Volksweisheit)
--- Ausdauer führt zum Ziel.
 %
 
 Schweigen ist Heilung für alles. (Megilla 18a)
--- Stille kann Konflikte beruhigen.
 %
 
 Ein Bastard, der gelehrt ist, ist besser als ein Hohepriester, der unwissend ist. (Talmudische Volksweisheit)
--- Wissen und Charakter zählen mehr als Herkunft.
 %
 
 Sei ein Schwanz unter Löwen, nicht ein Kopf unter Schakalen. (Avot)
--- Besser in guter Gesellschaft folgen als schlechte führen.
 %
 
 Das Studium ist nicht das Wichtigste, sondern die Tat. (Avot 1:17)
--- Wissen muss in Handeln münden.
 %
 
 Ein gutes Herz ist die Grundlage aller Tugenden. (Avot 2:9)
--- Die innere Haltung bestimmt alles.
 %
-
-# Weitere geprüfte Einträge folgen demselben Schema.
-# Alle klassischen Avot- und Talmudstellen sind auf Stimmigkeit geprüft.
