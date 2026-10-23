@@ -1,117 +1,79 @@
 # Talmud Weisheiten – bereinigtes Fortune-Format
-# Deutsch
-# (Quelle)
+# Deutsch (Quelle)
 # %
-Was du hasst, das tu deinem Nächsten nicht.
-(Shabbat 31a)
+Was du hasst, das tu deinem Nächsten nicht. (Shabbat 31a)
 %
 Wenn ich nicht für mich bin, wer ist für mich? Und wenn ich nur für mich bin, was bin ich? Und wenn nicht jetzt, wann dann? (Avot 1:14)
 %
-Die Welt steht auf drei Dingen: auf der Tora, dem Gottesdienst und auf Taten der Güte.
-(Avot 1:2)
+Die Welt steht auf drei Dingen: auf der Tora, dem Gottesdienst und auf Taten der Güte. (Avot 1:2)
 %
-Sage wenig und tue viel, und empfange jeden Menschen mit freundlichem Gesicht.
-(Avot 1:15)
+Sage wenig und tue viel, und empfange jeden Menschen mit freundlichem Gesicht. (Avot 1:15)
 %
-Wer ist weise? Der von jedem Menschen lernt.
-(Avot 4:1)
+Wer ist weise? Der von jedem Menschen lernt. (Avot 4:1)
 %
-Wer ist stark? Der seinen Trieb beherrscht.
-(Avot 4:1)
+Wer ist stark? Der seinen Trieb beherrscht. (Avot 4:1)
 %
-Wer ist reich? Der mit seinem Los zufrieden ist.
-(Avot 4:1)
+Wer ist reich? Der mit seinem Los zufrieden ist. (Avot 4:1)
 %
-Wer ist geehrt? Der andere ehrt.
-(Avot 4:1)
+Wer ist geehrt? Der andere ehrt. (Avot 4:1)
 %
-Nicht dir liegt die Arbeit, sie zu vollenden, aber du bist auch nicht frei, dich ihr zu entziehen.
-(Avot 2:16)
+Nicht dir liegt die Arbeit, sie zu vollenden, aber du bist auch nicht frei, dich ihr zu entziehen. (Avot 2:16)
 %
-An einem Ort, wo es keine Männer gibt, bemühe dich, ein Mann zu sein.
-(Avot 2:5)
+An einem Ort, wo es keine Männer gibt, bemühe dich, ein Mann zu sein. (Avot 2:5)
 %
-Ein Zaun um die Weisheit ist das Schweigen.
-(Avot 3:13)
+Ein Zaun um die Weisheit ist das Schweigen. (Avot 3:13)
 %
-Seid vorsichtig im Urteil, erzieht viele Schüler und macht einen Zaun um die Tora.
-(Avot 1:1)
+Seid vorsichtig im Urteil, erzieht viele Schüler und macht einen Zaun um die Tora. (Avot 1:1)
 %
-Diene nicht um des Lohnes willen.
-(Avot 1:3)
+Diene nicht um des Lohnes willen. (Avot 1:3)
 %
-Dein Haus sei weit offen, und die Armen seien Mitglieder deines Haushalts.
-(Avot 1:5)
+Dein Haus sei weit offen, und die Armen seien Mitglieder deines Haushalts. (Avot 1:5)
 %
-Erwirb dir einen Lehrer, erwirb dir einen Freund und beurteile jeden zum Guten hin.
-(Avot 1:6)
+Erwirb dir einen Lehrer, erwirb dir einen Freund und beurteile jeden zum Guten hin. (Avot 1:6)
 %
-Die Welt steht auf Recht, Wahrheit und Frieden.
-(Avot 1:18)
+Die Welt steht auf Recht, Wahrheit und Frieden. (Avot 1:18)
 %
-Sei so vorsichtig mit einem leichten Gebot wie mit einem schweren.
-(Avot 2:1)
+Sei so vorsichtig mit einem leichten Gebot wie mit einem schweren. (Avot 2:1)
 %
-Überlege drei Dinge und du wirst nicht sündigen: Ein sehendes Auge, ein hörendes Ohr und alle deine Taten werden aufgezeichnet.
-(Avot 2:1)
+Überlege drei Dinge und du wirst nicht sündigen: Ein sehendes Auge, ein hörendes Ohr und alle deine Taten werden aufgezeichnet. (Avot 2:1)
 %
-Die Ehre deines Freundes sei dir so teuer wie deine eigene.
-(Avot 2:10)
+Die Ehre deines Freundes sei dir so teuer wie deine eigene. (Avot 2:10)
 %
-Verachte niemanden und halte nichts für unmöglich, denn jeder Mensch hat seine Stunde und jedes Ding seinen Ort.
-(Avot 4:3)
+Verachte niemanden und halte nichts für unmöglich, denn jeder Mensch hat seine Stunde und jedes Ding seinen Ort. (Avot 4:3)
 %
-Schau nicht auf den Krug, sondern auf das, was darin ist.
-(Avot 4:20)
+Schau nicht auf den Krug, sondern auf das, was darin ist. (Avot 4:20)
 %
-Wer ein Leben rettet, rettet eine ganze Welt.
-(Sanhedrin 37a)
+Wer ein Leben rettet, rettet eine ganze Welt. (Sanhedrin 37a)
 %
-Wirf keine Steine in den Brunnen, aus dem du getrunken hast.
-(Bava Kamma 92b)
+Wirf keine Steine in den Brunnen, aus dem du getrunken hast. (Bava Kamma 92b)
 %
-Die Qualität einer Gurke erkennt man schon an der Blüte.
-(Talmudische Volksweisheit)
+Die Qualität einer Gurke erkennt man schon an der Blüte. (Talmudische Volksweisheit)
 %
-Ein Topf, der mehreren gehört, ist weder heiß noch kalt.
-(Talmudische Volksweisheit)
+Ein Topf, der mehreren gehört, ist weder heiß noch kalt. (Talmudische Volksweisheit)
 %
-Eine scharfe Pfefferschote ist besser als ein Korb voll Kürbisse.
-(Talmudische Volksweisheit)
+Eine scharfe Pfefferschote ist besser als ein Korb voll Kürbisse. (Talmudische Volksweisheit)
 %
-Wer von einer Schlange gebissen wurde, fürchtet sich vor einem Seil.
-(Talmudische Volksweisheit)
+Wer von einer Schlange gebissen wurde, fürchtet sich vor einem Seil. (Talmudische Volksweisheit)
 %
-Besser verflucht sein als verfluchen.
-(Talmudische Volksweisheit)
+Besser verflucht sein als verfluchen. (Talmudische Volksweisheit)
 %
-Der Charakter eines Menschen zeigt sich an seinem Becher, seiner Tasche und seinem Zorn.
-(Eruvin 65b)
+Der Charakter eines Menschen zeigt sich an seinem Becher, seiner Tasche und seinem Zorn. (Eruvin 65b)
 %
-Jugend ist eine Krone aus Rosen, Alter eine Krone aus Weiden.
-(Shabbat 152a)
+Jugend ist eine Krone aus Rosen, Alter eine Krone aus Weiden. (Shabbat 152a)
 %
-Wein hinein, Geheimnis hinaus.
-(Eruvin 65a)
+Wein hinein, Geheimnis hinaus. (Eruvin 65a)
 %
-Wände haben Ohren.
-(Talmudische Volksweisheit)
+Wände haben Ohren. (Talmudische Volksweisheit)
 %
-Tropfen für Tropfen füllt sich die Zisterne.
-(Talmudische Volksweisheit)
+Tropfen für Tropfen füllt sich die Zisterne. (Talmudische Volksweisheit)
 %
-Schweigen ist Heilung für alles.
-(Megilla 18a)
+Schweigen ist Heilung für alles. (Megilla 18a)
 %
-Ein Bastard, der gelehrt ist, ist besser als ein Hohepriester, der unwissend ist.
-(Talmudische Volksweisheit)
+Ein Bastard, der gelehrt ist, ist besser als ein Hohepriester, der unwissend ist. (Talmudische Volksweisheit)
 %
-Sei ein Schwanz unter Löwen, nicht ein Kopf unter Schakalen.
-(Avot)
+Sei ein Schwanz unter Löwen, nicht ein Kopf unter Schakalen. (Avot)
 %
-Das Studium ist nicht das Wichtigste, sondern die Tat.
-(Avot 1:17)
+Das Studium ist nicht das Wichtigste, sondern die Tat. (Avot 1:17)
 %
-Ein gutes Herz ist die Grundlage aller Tugenden.
-(Avot 2:9)
+Ein gutes Herz ist die Grundlage aller Tugenden. (Avot 2:9)
 %
